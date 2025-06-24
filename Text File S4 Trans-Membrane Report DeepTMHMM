@@ -1,0 +1,1306 @@
+##gff-version 3
+# DMAPLEDO_00135 Length: 191
+# DMAPLEDO_00135 Number of predicted TMRs: 0
+DMAPLEDO_00135	inside	1	191				
+//
+# DMAPLEDO_00153 Length: 202
+# DMAPLEDO_00153 Number of predicted TMRs: 0
+DMAPLEDO_00153	inside	1	202				
+//
+# DMAPLEDO_00520 Length: 227
+# DMAPLEDO_00520 Number of predicted TMRs: 0
+DMAPLEDO_00520	inside	1	227				
+//
+# DMAPLEDO_00745 Length: 208
+# DMAPLEDO_00745 Number of predicted TMRs: 0
+DMAPLEDO_00745	inside	1	208				
+//
+# DMAPLEDO_01182 Length: 177
+# DMAPLEDO_01182 Number of predicted TMRs: 0
+DMAPLEDO_01182	signal	1	28				
+DMAPLEDO_01182	outside	29	177				
+//
+# DMAPLEDO_01591 Length: 203
+# DMAPLEDO_01591 Number of predicted TMRs: 0
+DMAPLEDO_01591	inside	1	203				
+//
+# DMAPLEDO_01884 Length: 230
+# DMAPLEDO_01884 Number of predicted TMRs: 0
+DMAPLEDO_01884	inside	1	230				
+//
+# DMAPLEDO_02100 Length: 166
+# DMAPLEDO_02100 Number of predicted TMRs: 0
+DMAPLEDO_02100	inside	1	166				
+//
+# DMAPLEDO_02296 Length: 187
+# DMAPLEDO_02296 Number of predicted TMRs: 0
+DMAPLEDO_02296	inside	1	187				
+//
+# DMAPLEDO_02322 Length: 182
+# DMAPLEDO_02322 Number of predicted TMRs: 5
+DMAPLEDO_02322	inside	1	16				
+DMAPLEDO_02322	TMhelix	17	36				
+DMAPLEDO_02322	outside	37	55				
+DMAPLEDO_02322	TMhelix	56	77				
+DMAPLEDO_02322	inside	78	86				
+DMAPLEDO_02322	TMhelix	87	107				
+DMAPLEDO_02322	outside	108	113				
+DMAPLEDO_02322	TMhelix	114	134				
+DMAPLEDO_02322	inside	135	138				
+DMAPLEDO_02322	TMhelix	139	159				
+DMAPLEDO_02322	outside	160	182				
+//
+# DMAPLEDO_02338 Length: 176
+# DMAPLEDO_02338 Number of predicted TMRs: 0
+DMAPLEDO_02338	signal	1	18				
+DMAPLEDO_02338	outside	19	176				
+//
+# DMAPLEDO_02386 Length: 177
+# DMAPLEDO_02386 Number of predicted TMRs: 0
+DMAPLEDO_02386	inside	1	177				
+//
+# DMAPLEDO_02418 Length: 185
+# DMAPLEDO_02418 Number of predicted TMRs: 0
+DMAPLEDO_02418	inside	1	185				
+//
+# CIGPMGCD_00455 Length: 200
+# CIGPMGCD_00455 Number of predicted TMRs: 0
+CIGPMGCD_00455	inside	1	200				
+//
+# EOOPIEPK_01257 Length: 174
+# EOOPIEPK_01257 Number of predicted TMRs: 0
+EOOPIEPK_01257	inside	1	174				
+//
+# EOOPIEPK_02286 Length: 175
+# EOOPIEPK_02286 Number of predicted TMRs: 0
+EOOPIEPK_02286	inside	1	175				
+//
+# EOOPIEPK_02908 Length: 211
+# EOOPIEPK_02908 Number of predicted TMRs: 0
+EOOPIEPK_02908	inside	1	211				
+//
+# EOOPIEPK_02952 Length: 181
+# EOOPIEPK_02952 Number of predicted TMRs: 0
+EOOPIEPK_02952	inside	1	181				
+//
+# BHKGJOEO_00662 Length: 192
+# BHKGJOEO_00662 Number of predicted TMRs: 0
+BHKGJOEO_00662	inside	1	192				
+//
+# BHKGJOEO_01270 Length: 190
+# BHKGJOEO_01270 Number of predicted TMRs: 0
+BHKGJOEO_01270	inside	1	190				
+//
+# BHKGJOEO_01647 Length: 170
+# BHKGJOEO_01647 Number of predicted TMRs: 0
+BHKGJOEO_01647	inside	1	170				
+//
+# BHKGJOEO_01799 Length: 177
+# BHKGJOEO_01799 Number of predicted TMRs: 0
+BHKGJOEO_01799	signal	1	19				
+BHKGJOEO_01799	outside	20	177				
+//
+# BHKGJOEO_02379 Length: 169
+# BHKGJOEO_02379 Number of predicted TMRs: 0
+BHKGJOEO_02379	inside	1	169				
+//
+# OBKPECCF_03040 Length: 201
+# OBKPECCF_03040 Number of predicted TMRs: 4
+OBKPECCF_03040	inside	1	32				
+OBKPECCF_03040	TMhelix	33	48				
+OBKPECCF_03040	outside	49	58				
+OBKPECCF_03040	TMhelix	59	77				
+OBKPECCF_03040	inside	78	100				
+OBKPECCF_03040	TMhelix	101	121				
+OBKPECCF_03040	outside	122	165				
+OBKPECCF_03040	TMhelix	166	191				
+OBKPECCF_03040	inside	192	201				
+//
+# IOEHNOCH_01576 Length: 170
+# IOEHNOCH_01576 Number of predicted TMRs: 0
+IOEHNOCH_01576	signal	1	28				
+IOEHNOCH_01576	outside	29	170				
+//
+# IOEHNOCH_02887 Length: 166
+# IOEHNOCH_02887 Number of predicted TMRs: 0
+IOEHNOCH_02887	outside	1	166				
+//
+# GFLFOGJA_00172 Length: 174
+# GFLFOGJA_00172 Number of predicted TMRs: 0
+GFLFOGJA_00172	signal	1	23				
+GFLFOGJA_00172	outside	24	174				
+//
+# GFLFOGJA_02656 Length: 176
+# GFLFOGJA_02656 Number of predicted TMRs: 4
+GFLFOGJA_02656	inside	1	14				
+GFLFOGJA_02656	TMhelix	15	35				
+GFLFOGJA_02656	outside	36	44				
+GFLFOGJA_02656	TMhelix	45	65				
+GFLFOGJA_02656	inside	66	74				
+GFLFOGJA_02656	TMhelix	75	99				
+GFLFOGJA_02656	outside	100	142				
+GFLFOGJA_02656	TMhelix	143	161				
+GFLFOGJA_02656	inside	162	176				
+//
+# GFLFOGJA_02833 Length: 172
+# GFLFOGJA_02833 Number of predicted TMRs: 0
+GFLFOGJA_02833	inside	1	172				
+//
+# GFLFOGJA_02849 Length: 170
+# GFLFOGJA_02849 Number of predicted TMRs: 0
+GFLFOGJA_02849	signal	1	18				
+GFLFOGJA_02849	outside	19	170				
+//
+# GFLFOGJA_02945 Length: 176
+# GFLFOGJA_02945 Number of predicted TMRs: 0
+GFLFOGJA_02945	inside	1	176				
+//
+# OGBDAHMI_01059 Length: 203
+# OGBDAHMI_01059 Number of predicted TMRs: 0
+OGBDAHMI_01059	inside	1	203				
+//
+# OGBDAHMI_01500 Length: 169
+# OGBDAHMI_01500 Number of predicted TMRs: 0
+OGBDAHMI_01500	inside	1	169				
+//
+# FPFHHPNP_00279 Length: 177
+# FPFHHPNP_00279 Number of predicted TMRs: 0
+FPFHHPNP_00279	signal	1	24				
+FPFHHPNP_00279	outside	25	177				
+//
+# FPFHHPNP_00964 Length: 178
+# FPFHHPNP_00964 Number of predicted TMRs: 0
+FPFHHPNP_00964	inside	1	178				
+//
+# FPFHHPNP_01902 Length: 240
+# FPFHHPNP_01902 Number of predicted TMRs: 0
+FPFHHPNP_01902	inside	1	240				
+//
+# FPFHHPNP_02136 Length: 183
+# FPFHHPNP_02136 Number of predicted TMRs: 0
+FPFHHPNP_02136	outside	1	183				
+//
+# FPFHHPNP_02142 Length: 191
+# FPFHHPNP_02142 Number of predicted TMRs: 6
+FPFHHPNP_02142	inside	1	14				
+FPFHHPNP_02142	TMhelix	15	35				
+FPFHHPNP_02142	outside	36	38				
+FPFHHPNP_02142	TMhelix	39	53				
+FPFHHPNP_02142	inside	54	58				
+FPFHHPNP_02142	TMhelix	59	79				
+FPFHHPNP_02142	outside	80	90				
+FPFHHPNP_02142	TMhelix	91	108				
+FPFHHPNP_02142	inside	109	116				
+FPFHHPNP_02142	TMhelix	117	137				
+FPFHHPNP_02142	outside	138	164				
+FPFHHPNP_02142	TMhelix	165	182				
+FPFHHPNP_02142	inside	183	191				
+//
+# FPFHHPNP_02323 Length: 185
+# FPFHHPNP_02323 Number of predicted TMRs: 0
+FPFHHPNP_02323	inside	1	185				
+//
+# FPFHHPNP_02522 Length: 253
+# FPFHHPNP_02522 Number of predicted TMRs: 0
+FPFHHPNP_02522	signal	1	21				
+FPFHHPNP_02522	outside	22	253				
+//
+# FPFHHPNP_02526 Length: 189
+# FPFHHPNP_02526 Number of predicted TMRs: 4
+FPFHHPNP_02526	inside	1	22				
+FPFHHPNP_02526	TMhelix	23	40				
+FPFHHPNP_02526	outside	41	105				
+FPFHHPNP_02526	TMhelix	106	121				
+FPFHHPNP_02526	inside	122	130				
+FPFHHPNP_02526	TMhelix	131	155				
+FPFHHPNP_02526	outside	156	167				
+FPFHHPNP_02526	TMhelix	168	186				
+FPFHHPNP_02526	inside	187	189				
+//
+# FOFPMLJC_00071 Length: 186
+# FOFPMLJC_00071 Number of predicted TMRs: 0
+FOFPMLJC_00071	signal	1	19				
+FOFPMLJC_00071	outside	20	186				
+//
+# FOFPMLJC_00130 Length: 228
+# FOFPMLJC_00130 Number of predicted TMRs: 0
+FOFPMLJC_00130	inside	1	228				
+//
+# FOFPMLJC_00335 Length: 183
+# FOFPMLJC_00335 Number of predicted TMRs: 0
+FOFPMLJC_00335	signal	1	16				
+FOFPMLJC_00335	outside	17	183				
+//
+# FOFPMLJC_00501 Length: 187
+# FOFPMLJC_00501 Number of predicted TMRs: 0
+FOFPMLJC_00501	inside	1	187				
+//
+# FOFPMLJC_00634 Length: 173
+# FOFPMLJC_00634 Number of predicted TMRs: 0
+FOFPMLJC_00634	inside	1	173				
+//
+# FOFPMLJC_00636 Length: 232
+# FOFPMLJC_00636 Number of predicted TMRs: 7
+FOFPMLJC_00636	outside	1	8				
+FOFPMLJC_00636	TMhelix	9	29				
+FOFPMLJC_00636	inside	30	40				
+FOFPMLJC_00636	TMhelix	41	61				
+FOFPMLJC_00636	outside	62	69				
+FOFPMLJC_00636	TMhelix	70	90				
+FOFPMLJC_00636	inside	91	101				
+FOFPMLJC_00636	TMhelix	102	122				
+FOFPMLJC_00636	outside	123	136				
+FOFPMLJC_00636	TMhelix	137	157				
+FOFPMLJC_00636	inside	158	170				
+FOFPMLJC_00636	TMhelix	171	186				
+FOFPMLJC_00636	outside	187	202				
+FOFPMLJC_00636	TMhelix	203	223				
+FOFPMLJC_00636	inside	224	232				
+//
+# FOFPMLJC_00915 Length: 172
+# FOFPMLJC_00915 Number of predicted TMRs: 0
+FOFPMLJC_00915	inside	1	172				
+//
+# FOFPMLJC_01071 Length: 180
+# FOFPMLJC_01071 Number of predicted TMRs: 0
+FOFPMLJC_01071	inside	1	180				
+//
+# FOFPMLJC_01667 Length: 184
+# FOFPMLJC_01667 Number of predicted TMRs: 0
+FOFPMLJC_01667	inside	1	184				
+//
+# FOFPMLJC_01673 Length: 198
+# FOFPMLJC_01673 Number of predicted TMRs: 4
+FOFPMLJC_01673	inside	1	5				
+FOFPMLJC_01673	TMhelix	6	20				
+FOFPMLJC_01673	outside	21	26				
+FOFPMLJC_01673	TMhelix	27	48				
+FOFPMLJC_01673	inside	49	78				
+FOFPMLJC_01673	TMhelix	79	99				
+FOFPMLJC_01673	outside	100	152				
+FOFPMLJC_01673	TMhelix	153	173				
+FOFPMLJC_01673	inside	174	198				
+//
+# FOFPMLJC_02299 Length: 175
+# FOFPMLJC_02299 Number of predicted TMRs: 0
+FOFPMLJC_02299	signal	1	15				
+FOFPMLJC_02299	outside	16	175				
+//
+# FOFPMLJC_02521 Length: 166
+# FOFPMLJC_02521 Number of predicted TMRs: 0
+FOFPMLJC_02521	signal	1	24				
+FOFPMLJC_02521	outside	25	166				
+//
+# FOFPMLJC_02721 Length: 171
+# FOFPMLJC_02721 Number of predicted TMRs: 4
+FOFPMLJC_02721	inside	1	12				
+FOFPMLJC_02721	TMhelix	13	32				
+FOFPMLJC_02721	outside	33	47				
+FOFPMLJC_02721	TMhelix	48	63				
+FOFPMLJC_02721	inside	64	71				
+FOFPMLJC_02721	TMhelix	72	98				
+FOFPMLJC_02721	outside	99	141				
+FOFPMLJC_02721	TMhelix	142	163				
+FOFPMLJC_02721	inside	164	171				
+//
+# FOFPMLJC_03061 Length: 214
+# FOFPMLJC_03061 Number of predicted TMRs: 0
+FOFPMLJC_03061	inside	1	214				
+//
+# FOFPMLJC_03295 Length: 226
+# FOFPMLJC_03295 Number of predicted TMRs: 8
+FOFPMLJC_03295	signal	1	24				
+FOFPMLJC_03295	periplasm	25	29				
+FOFPMLJC_03295	Beta sheet	30	41				
+FOFPMLJC_03295	outside	42	60				
+FOFPMLJC_03295	Beta sheet	61	73				
+FOFPMLJC_03295	periplasm	74	76				
+FOFPMLJC_03295	Beta sheet	77	88				
+FOFPMLJC_03295	outside	89	111				
+FOFPMLJC_03295	Beta sheet	112	123				
+FOFPMLJC_03295	periplasm	124	130				
+FOFPMLJC_03295	Beta sheet	131	142				
+FOFPMLJC_03295	outside	143	158				
+FOFPMLJC_03295	Beta sheet	159	171				
+FOFPMLJC_03295	periplasm	172	179				
+FOFPMLJC_03295	Beta sheet	180	191				
+FOFPMLJC_03295	outside	192	212				
+FOFPMLJC_03295	Beta sheet	213	224				
+FOFPMLJC_03295	periplasm	225	226				
+//
+# FOFPMLJC_03398 Length: 224
+# FOFPMLJC_03398 Number of predicted TMRs: 0
+FOFPMLJC_03398	inside	1	224				
+//
+# FOFPMLJC_03445 Length: 197
+# FOFPMLJC_03445 Number of predicted TMRs: 5
+FOFPMLJC_03445	outside	1	3				
+FOFPMLJC_03445	TMhelix	4	21				
+FOFPMLJC_03445	inside	22	26				
+FOFPMLJC_03445	TMhelix	27	47				
+FOFPMLJC_03445	outside	48	53				
+FOFPMLJC_03445	TMhelix	54	74				
+FOFPMLJC_03445	inside	75	90				
+FOFPMLJC_03445	TMhelix	91	108				
+FOFPMLJC_03445	outside	109	140				
+FOFPMLJC_03445	TMhelix	141	161				
+FOFPMLJC_03445	inside	162	197				
+//
+# FOFPMLJC_03499 Length: 166
+# FOFPMLJC_03499 Number of predicted TMRs: 1
+FOFPMLJC_03499	outside	1	10				
+FOFPMLJC_03499	TMhelix	11	31				
+FOFPMLJC_03499	inside	32	166				
+//
+# FOFPMLJC_03514 Length: 197
+# FOFPMLJC_03514 Number of predicted TMRs: 0
+FOFPMLJC_03514	inside	1	197				
+//
+# FOFPMLJC_03526 Length: 193
+# FOFPMLJC_03526 Number of predicted TMRs: 0
+FOFPMLJC_03526	inside	1	193				
+//
+# PNIDDABP_00341 Length: 191
+# PNIDDABP_00341 Number of predicted TMRs: 0
+PNIDDABP_00341	signal	1	20				
+PNIDDABP_00341	outside	21	191				
+//
+# PNIDDABP_00432 Length: 170
+# PNIDDABP_00432 Number of predicted TMRs: 0
+PNIDDABP_00432	inside	1	170				
+//
+# PNIDDABP_00902 Length: 178
+# PNIDDABP_00902 Number of predicted TMRs: 1
+PNIDDABP_00902	outside	1	8				
+PNIDDABP_00902	TMhelix	9	27				
+PNIDDABP_00902	inside	28	178				
+//
+# PNIDDABP_01611 Length: 255
+# PNIDDABP_01611 Number of predicted TMRs: 0
+PNIDDABP_01611	inside	1	255				
+//
+# PNIDDABP_01892 Length: 193
+# PNIDDABP_01892 Number of predicted TMRs: 0
+PNIDDABP_01892	inside	1	193				
+//
+# PNIDDABP_02392 Length: 191
+# PNIDDABP_02392 Number of predicted TMRs: 0
+PNIDDABP_02392	signal	1	23				
+PNIDDABP_02392	outside	24	191				
+//
+# PNIDDABP_02654 Length: 184
+# PNIDDABP_02654 Number of predicted TMRs: 0
+PNIDDABP_02654	inside	1	184				
+//
+# HFNCNDHA_00069 Length: 218
+# HFNCNDHA_00069 Number of predicted TMRs: 0
+HFNCNDHA_00069	inside	1	218				
+//
+# HFNCNDHA_01145 Length: 206
+# HFNCNDHA_01145 Number of predicted TMRs: 5
+HFNCNDHA_01145	inside	1	10				
+HFNCNDHA_01145	TMhelix	11	28				
+HFNCNDHA_01145	outside	29	43				
+HFNCNDHA_01145	TMhelix	44	66				
+HFNCNDHA_01145	inside	67	90				
+HFNCNDHA_01145	TMhelix	91	111				
+HFNCNDHA_01145	outside	112	134				
+HFNCNDHA_01145	TMhelix	135	156				
+HFNCNDHA_01145	inside	157	185				
+HFNCNDHA_01145	TMhelix	186	200				
+HFNCNDHA_01145	outside	201	206				
+//
+# HFNCNDHA_02240 Length: 209
+# HFNCNDHA_02240 Number of predicted TMRs: 0
+HFNCNDHA_02240	inside	1	209				
+//
+# HFNCNDHA_02362 Length: 177
+# HFNCNDHA_02362 Number of predicted TMRs: 0
+HFNCNDHA_02362	inside	1	177				
+//
+# HFNCNDHA_03051 Length: 170
+# HFNCNDHA_03051 Number of predicted TMRs: 0
+HFNCNDHA_03051	inside	1	170				
+//
+# FMDAHHBP_04906 Length: 178
+# FMDAHHBP_04906 Number of predicted TMRs: 4
+FMDAHHBP_04906	inside	1	42				
+FMDAHHBP_04906	TMhelix	43	64				
+FMDAHHBP_04906	outside	65	74				
+FMDAHHBP_04906	TMhelix	75	95				
+FMDAHHBP_04906	inside	96	108				
+FMDAHHBP_04906	TMhelix	109	129				
+FMDAHHBP_04906	outside	130	140				
+FMDAHHBP_04906	TMhelix	141	161				
+FMDAHHBP_04906	inside	162	178				
+//
+# DIHADMFM_01279 Length: 204
+# DIHADMFM_01279 Number of predicted TMRs: 0
+DIHADMFM_01279	inside	1	204				
+//
+# DIHADMFM_01477 Length: 166
+# DIHADMFM_01477 Number of predicted TMRs: 0
+DIHADMFM_01477	inside	1	166				
+//
+# DIHADMFM_01487 Length: 170
+# DIHADMFM_01487 Number of predicted TMRs: 0
+DIHADMFM_01487	inside	1	170				
+//
+# DIHADMFM_01490 Length: 198
+# DIHADMFM_01490 Number of predicted TMRs: 0
+DIHADMFM_01490	inside	1	198				
+//
+# DIHADMFM_02799 Length: 171
+# DIHADMFM_02799 Number of predicted TMRs: 0
+DIHADMFM_02799	inside	1	171				
+//
+# DIHADMFM_03491 Length: 196
+# DIHADMFM_03491 Number of predicted TMRs: 0
+DIHADMFM_03491	inside	1	196				
+//
+# OEGKKMJJ_01913 Length: 174
+# OEGKKMJJ_01913 Number of predicted TMRs: 4
+OEGKKMJJ_01913	inside	1	24				
+OEGKKMJJ_01913	TMhelix	25	42				
+OEGKKMJJ_01913	outside	43	56				
+OEGKKMJJ_01913	TMhelix	57	74				
+OEGKKMJJ_01913	inside	75	107				
+OEGKKMJJ_01913	TMhelix	108	123				
+OEGKKMJJ_01913	outside	124	131				
+OEGKKMJJ_01913	TMhelix	132	154				
+OEGKKMJJ_01913	inside	155	174				
+//
+# OEGKKMJJ_02335 Length: 171
+# OEGKKMJJ_02335 Number of predicted TMRs: 0
+OEGKKMJJ_02335	inside	1	171				
+//
+# CMILMNLC_00716 Length: 177
+# CMILMNLC_00716 Number of predicted TMRs: 0
+CMILMNLC_00716	signal	1	26				
+CMILMNLC_00716	outside	27	177				
+//
+# CMILMNLC_01527 Length: 182
+# CMILMNLC_01527 Number of predicted TMRs: 6
+CMILMNLC_01527	outside	1	1				
+CMILMNLC_01527	TMhelix	2	17				
+CMILMNLC_01527	inside	18	33				
+CMILMNLC_01527	TMhelix	34	51				
+CMILMNLC_01527	outside	52	67				
+CMILMNLC_01527	TMhelix	68	85				
+CMILMNLC_01527	inside	86	99				
+CMILMNLC_01527	TMhelix	100	113				
+CMILMNLC_01527	outside	114	119				
+CMILMNLC_01527	TMhelix	120	138				
+CMILMNLC_01527	inside	139	155				
+CMILMNLC_01527	TMhelix	156	172				
+CMILMNLC_01527	outside	173	182				
+//
+# CMILMNLC_02122 Length: 171
+# CMILMNLC_02122 Number of predicted TMRs: 2
+CMILMNLC_02122	inside	1	4				
+CMILMNLC_02122	TMhelix	5	25				
+CMILMNLC_02122	outside	26	43				
+CMILMNLC_02122	TMhelix	44	64				
+CMILMNLC_02122	inside	65	171				
+//
+# CMILMNLC_02573 Length: 194
+# CMILMNLC_02573 Number of predicted TMRs: 0
+CMILMNLC_02573	inside	1	194				
+//
+# CMILMNLC_02913 Length: 174
+# CMILMNLC_02913 Number of predicted TMRs: 0
+CMILMNLC_02913	signal	1	28				
+CMILMNLC_02913	outside	29	174				
+//
+# CMILMNLC_03520 Length: 190
+# CMILMNLC_03520 Number of predicted TMRs: 0
+CMILMNLC_03520	inside	1	190				
+//
+# LCEFPCKP_00115 Length: 179
+# LCEFPCKP_00115 Number of predicted TMRs: 4
+LCEFPCKP_00115	inside	1	5				
+LCEFPCKP_00115	TMhelix	6	27				
+LCEFPCKP_00115	outside	28	34				
+LCEFPCKP_00115	TMhelix	35	55				
+LCEFPCKP_00115	inside	56	72				
+LCEFPCKP_00115	TMhelix	73	97				
+LCEFPCKP_00115	outside	98	144				
+LCEFPCKP_00115	TMhelix	145	167				
+LCEFPCKP_00115	inside	168	179				
+//
+# LCEFPCKP_00448 Length: 186
+# LCEFPCKP_00448 Number of predicted TMRs: 0
+LCEFPCKP_00448	inside	1	186				
+//
+# LCEFPCKP_00654 Length: 172
+# LCEFPCKP_00654 Number of predicted TMRs: 0
+LCEFPCKP_00654	inside	1	172				
+//
+# LCEFPCKP_01093 Length: 196
+# LCEFPCKP_01093 Number of predicted TMRs: 0
+LCEFPCKP_01093	outside	1	196				
+//
+# LCEFPCKP_01444 Length: 176
+# LCEFPCKP_01444 Number of predicted TMRs: 0
+LCEFPCKP_01444	inside	1	176				
+//
+# LCEFPCKP_01536 Length: 211
+# LCEFPCKP_01536 Number of predicted TMRs: 0
+LCEFPCKP_01536	inside	1	211				
+//
+# LCEFPCKP_02124 Length: 211
+# LCEFPCKP_02124 Number of predicted TMRs: 0
+LCEFPCKP_02124	inside	1	211				
+//
+# LCEFPCKP_02127 Length: 187
+# LCEFPCKP_02127 Number of predicted TMRs: 0
+LCEFPCKP_02127	inside	1	187				
+//
+# LCEFPCKP_02137 Length: 194
+# LCEFPCKP_02137 Number of predicted TMRs: 0
+LCEFPCKP_02137	inside	1	194				
+//
+# LCEFPCKP_02193 Length: 233
+# LCEFPCKP_02193 Number of predicted TMRs: 0
+LCEFPCKP_02193	inside	1	233				
+//
+# LCEFPCKP_02673 Length: 180
+# LCEFPCKP_02673 Number of predicted TMRs: 4
+LCEFPCKP_02673	inside	1	20				
+LCEFPCKP_02673	TMhelix	21	41				
+LCEFPCKP_02673	outside	42	63				
+LCEFPCKP_02673	TMhelix	64	84				
+LCEFPCKP_02673	inside	85	118				
+LCEFPCKP_02673	TMhelix	119	132				
+LCEFPCKP_02673	outside	133	149				
+LCEFPCKP_02673	TMhelix	150	170				
+LCEFPCKP_02673	inside	171	180				
+//
+# LCEFPCKP_02837 Length: 170
+# LCEFPCKP_02837 Number of predicted TMRs: 0
+LCEFPCKP_02837	outside	1	170				
+//
+# NAJEKJFG_01591 Length: 192
+# NAJEKJFG_01591 Number of predicted TMRs: 0
+NAJEKJFG_01591	inside	1	192				
+//
+# NAJEKJFG_02463 Length: 167
+# NAJEKJFG_02463 Number of predicted TMRs: 0
+NAJEKJFG_02463	inside	1	167				
+//
+# NAJEKJFG_05612 Length: 167
+# NAJEKJFG_05612 Number of predicted TMRs: 4
+NAJEKJFG_05612	inside	1	10				
+NAJEKJFG_05612	TMhelix	11	25				
+NAJEKJFG_05612	outside	26	35				
+NAJEKJFG_05612	TMhelix	36	56				
+NAJEKJFG_05612	inside	57	73				
+NAJEKJFG_05612	TMhelix	74	95				
+NAJEKJFG_05612	outside	96	104				
+NAJEKJFG_05612	TMhelix	105	122				
+NAJEKJFG_05612	inside	123	167				
+//
+# CFHCIKHI_03013 Length: 186
+# CFHCIKHI_03013 Number of predicted TMRs: 0
+CFHCIKHI_03013	inside	1	186				
+//
+# JEDBDOFF_00481 Length: 173
+# JEDBDOFF_00481 Number of predicted TMRs: 0
+JEDBDOFF_00481	inside	1	173				
+//
+# JEDBDOFF_00989 Length: 181
+# JEDBDOFF_00989 Number of predicted TMRs: 6
+JEDBDOFF_00989	outside	1	1				
+JEDBDOFF_00989	TMhelix	2	20				
+JEDBDOFF_00989	inside	21	35				
+JEDBDOFF_00989	TMhelix	36	56				
+JEDBDOFF_00989	outside	57	67				
+JEDBDOFF_00989	TMhelix	68	83				
+JEDBDOFF_00989	inside	84	99				
+JEDBDOFF_00989	TMhelix	100	120				
+JEDBDOFF_00989	outside	121	125				
+JEDBDOFF_00989	TMhelix	126	146				
+JEDBDOFF_00989	inside	147	156				
+JEDBDOFF_00989	TMhelix	157	175				
+JEDBDOFF_00989	outside	176	181				
+//
+# JEDBDOFF_01777 Length: 195
+# JEDBDOFF_01777 Number of predicted TMRs: 0
+JEDBDOFF_01777	signal	1	33				
+JEDBDOFF_01777	outside	34	195				
+//
+# ODGHFJCC_01174 Length: 173
+# ODGHFJCC_01174 Number of predicted TMRs: 0
+ODGHFJCC_01174	inside	1	173				
+//
+# ENNGKCNB_00011 Length: 237
+# ENNGKCNB_00011 Number of predicted TMRs: 0
+ENNGKCNB_00011	inside	1	237				
+//
+# ENNGKCNB_02663 Length: 184
+# ENNGKCNB_02663 Number of predicted TMRs: 0
+ENNGKCNB_02663	signal	1	23				
+ENNGKCNB_02663	outside	24	184				
+//
+# ENNGKCNB_02667 Length: 208
+# ENNGKCNB_02667 Number of predicted TMRs: 0
+ENNGKCNB_02667	inside	1	208				
+//
+# ENNGKCNB_02677 Length: 267
+# ENNGKCNB_02677 Number of predicted TMRs: 0
+ENNGKCNB_02677	signal	1	27				
+ENNGKCNB_02677	outside	28	267				
+//
+# ENNGKCNB_03470 Length: 192
+# ENNGKCNB_03470 Number of predicted TMRs: 0
+ENNGKCNB_03470	inside	1	192				
+//
+# CAJPIMFP_00571 Length: 174
+# CAJPIMFP_00571 Number of predicted TMRs: 5
+CAJPIMFP_00571	outside	1	14				
+CAJPIMFP_00571	TMhelix	15	35				
+CAJPIMFP_00571	inside	36	54				
+CAJPIMFP_00571	TMhelix	55	73				
+CAJPIMFP_00571	outside	74	79				
+CAJPIMFP_00571	TMhelix	80	97				
+CAJPIMFP_00571	inside	98	121				
+CAJPIMFP_00571	TMhelix	122	139				
+CAJPIMFP_00571	outside	140	143				
+CAJPIMFP_00571	TMhelix	144	164				
+CAJPIMFP_00571	inside	165	174				
+//
+# CAJPIMFP_01001 Length: 170
+# CAJPIMFP_01001 Number of predicted TMRs: 0
+CAJPIMFP_01001	inside	1	170				
+//
+# CAJPIMFP_01032 Length: 225
+# CAJPIMFP_01032 Number of predicted TMRs: 0
+CAJPIMFP_01032	signal	1	23				
+CAJPIMFP_01032	outside	24	225				
+//
+# CAJPIMFP_01140 Length: 174
+# CAJPIMFP_01140 Number of predicted TMRs: 0
+CAJPIMFP_01140	inside	1	174				
+//
+# CAJPIMFP_01678 Length: 278
+# CAJPIMFP_01678 Number of predicted TMRs: 0
+CAJPIMFP_01678	inside	1	278				
+//
+# CAJPIMFP_02061 Length: 168
+# CAJPIMFP_02061 Number of predicted TMRs: 0
+CAJPIMFP_02061	inside	1	168				
+//
+# CAJPIMFP_02635 Length: 196
+# CAJPIMFP_02635 Number of predicted TMRs: 0
+CAJPIMFP_02635	signal	1	32				
+CAJPIMFP_02635	outside	33	196				
+//
+# CAJPIMFP_03412 Length: 222
+# CAJPIMFP_03412 Number of predicted TMRs: 6
+CAJPIMFP_03412	inside	1	1				
+CAJPIMFP_03412	TMhelix	2	11				
+CAJPIMFP_03412	outside	12	49				
+CAJPIMFP_03412	TMhelix	50	67				
+CAJPIMFP_03412	inside	68	101				
+CAJPIMFP_03412	TMhelix	102	122				
+CAJPIMFP_03412	outside	123	135				
+CAJPIMFP_03412	TMhelix	136	145				
+CAJPIMFP_03412	inside	146	151				
+CAJPIMFP_03412	TMhelix	152	164				
+CAJPIMFP_03412	outside	165	194				
+CAJPIMFP_03412	TMhelix	195	206				
+CAJPIMFP_03412	inside	207	222				
+//
+# KMODHOBN_01875 Length: 172
+# KMODHOBN_01875 Number of predicted TMRs: 4
+KMODHOBN_01875	inside	1	16				
+KMODHOBN_01875	TMhelix	17	38				
+KMODHOBN_01875	outside	39	57				
+KMODHOBN_01875	TMhelix	58	78				
+KMODHOBN_01875	inside	79	114				
+KMODHOBN_01875	TMhelix	115	128				
+KMODHOBN_01875	outside	129	142				
+KMODHOBN_01875	TMhelix	143	163				
+KMODHOBN_01875	inside	164	172				
+//
+# KMODHOBN_03220 Length: 203
+# KMODHOBN_03220 Number of predicted TMRs: 0
+KMODHOBN_03220	inside	1	203				
+//
+# FHLCMHEM_03223 Length: 199
+# FHLCMHEM_03223 Number of predicted TMRs: 0
+FHLCMHEM_03223	inside	1	199				
+//
+# LEOGIOEI_00722 Length: 200
+# LEOGIOEI_00722 Number of predicted TMRs: 2
+LEOGIOEI_00722	outside	1	3				
+LEOGIOEI_00722	TMhelix	4	26				
+LEOGIOEI_00722	inside	27	177				
+LEOGIOEI_00722	TMhelix	178	199				
+LEOGIOEI_00722	outside	200	200				
+//
+# LEOGIOEI_00979 Length: 173
+# LEOGIOEI_00979 Number of predicted TMRs: 0
+LEOGIOEI_00979	inside	1	173				
+//
+# LEOGIOEI_01627 Length: 210
+# LEOGIOEI_01627 Number of predicted TMRs: 1
+LEOGIOEI_01627	inside	1	192				
+LEOGIOEI_01627	TMhelix	193	208				
+LEOGIOEI_01627	outside	209	210				
+//
+# LEOGIOEI_02212 Length: 217
+# LEOGIOEI_02212 Number of predicted TMRs: 2
+LEOGIOEI_02212	inside	1	11				
+LEOGIOEI_02212	TMhelix	12	25				
+LEOGIOEI_02212	outside	26	31				
+LEOGIOEI_02212	TMhelix	32	52				
+LEOGIOEI_02212	inside	53	217				
+//
+# LEOGIOEI_02565 Length: 167
+# LEOGIOEI_02565 Number of predicted TMRs: 0
+LEOGIOEI_02565	signal	1	21				
+LEOGIOEI_02565	outside	22	167				
+//
+# LEOGIOEI_02684 Length: 166
+# LEOGIOEI_02684 Number of predicted TMRs: 2
+LEOGIOEI_02684	signal	1	22				
+LEOGIOEI_02684	outside	23	104				
+LEOGIOEI_02684	TMhelix	105	118				
+LEOGIOEI_02684	inside	119	127				
+LEOGIOEI_02684	TMhelix	128	148				
+LEOGIOEI_02684	outside	149	166				
+//
+# LEOGIOEI_02931 Length: 169
+# LEOGIOEI_02931 Number of predicted TMRs: 0
+LEOGIOEI_02931	inside	1	169				
+//
+# MCJFIOPE_00924 Length: 179
+# MCJFIOPE_00924 Number of predicted TMRs: 0
+MCJFIOPE_00924	inside	1	179				
+//
+# MCJFIOPE_01348 Length: 189
+# MCJFIOPE_01348 Number of predicted TMRs: 0
+MCJFIOPE_01348	inside	1	189				
+//
+# MCJFIOPE_01734 Length: 176
+# MCJFIOPE_01734 Number of predicted TMRs: 0
+MCJFIOPE_01734	inside	1	176				
+//
+# MCJFIOPE_01908 Length: 176
+# MCJFIOPE_01908 Number of predicted TMRs: 0
+MCJFIOPE_01908	inside	1	176				
+//
+# MCJFIOPE_02601 Length: 170
+# MCJFIOPE_02601 Number of predicted TMRs: 0
+MCJFIOPE_02601	inside	1	170				
+//
+# KHKJMBJJ_00421 Length: 167
+# KHKJMBJJ_00421 Number of predicted TMRs: 0
+KHKJMBJJ_00421	inside	1	167				
+//
+# KHKJMBJJ_00769 Length: 199
+# KHKJMBJJ_00769 Number of predicted TMRs: 0
+KHKJMBJJ_00769	signal	1	29				
+KHKJMBJJ_00769	outside	30	199				
+//
+# KHKJMBJJ_01599 Length: 179
+# KHKJMBJJ_01599 Number of predicted TMRs: 0
+KHKJMBJJ_01599	inside	1	179				
+//
+# KHKJMBJJ_02249 Length: 209
+# KHKJMBJJ_02249 Number of predicted TMRs: 0
+KHKJMBJJ_02249	inside	1	209				
+//
+# KHKJMBJJ_02595 Length: 198
+# KHKJMBJJ_02595 Number of predicted TMRs: 0
+KHKJMBJJ_02595	outside	1	198				
+//
+# KHKJMBJJ_03276 Length: 200
+# KHKJMBJJ_03276 Number of predicted TMRs: 0
+KHKJMBJJ_03276	inside	1	200				
+//
+# BJCPALHD_02046 Length: 177
+# BJCPALHD_02046 Number of predicted TMRs: 0
+BJCPALHD_02046	inside	1	177				
+//
+# BJCPALHD_02777 Length: 188
+# BJCPALHD_02777 Number of predicted TMRs: 0
+BJCPALHD_02777	signal	1	25				
+BJCPALHD_02777	outside	26	188				
+//
+# BJCPALHD_03315 Length: 174
+# BJCPALHD_03315 Number of predicted TMRs: 5
+BJCPALHD_03315	inside	1	16				
+BJCPALHD_03315	TMhelix	17	34				
+BJCPALHD_03315	outside	35	52				
+BJCPALHD_03315	TMhelix	53	67				
+BJCPALHD_03315	inside	68	96				
+BJCPALHD_03315	TMhelix	97	106				
+BJCPALHD_03315	outside	107	108				
+BJCPALHD_03315	TMhelix	109	123				
+BJCPALHD_03315	inside	124	143				
+BJCPALHD_03315	TMhelix	144	153				
+BJCPALHD_03315	outside	154	174				
+//
+# BJCPALHD_04292 Length: 199
+# BJCPALHD_04292 Number of predicted TMRs: 0
+BJCPALHD_04292	inside	1	199				
+//
+# BJCPALHD_04315 Length: 174
+# BJCPALHD_04315 Number of predicted TMRs: 0
+BJCPALHD_04315	inside	1	174				
+//
+# BJCPALHD_04550 Length: 166
+# BJCPALHD_04550 Number of predicted TMRs: 0
+BJCPALHD_04550	outside	1	166				
+//
+# BFFGDDHI_00378 Length: 186
+# BFFGDDHI_00378 Number of predicted TMRs: 0
+BFFGDDHI_00378	inside	1	186				
+//
+# BFFGDDHI_00911 Length: 186
+# BFFGDDHI_00911 Number of predicted TMRs: 0
+BFFGDDHI_00911	inside	1	186				
+//
+# BFFGDDHI_00922 Length: 171
+# BFFGDDHI_00922 Number of predicted TMRs: 2
+BFFGDDHI_00922	inside	1	4				
+BFFGDDHI_00922	TMhelix	5	25				
+BFFGDDHI_00922	outside	26	43				
+BFFGDDHI_00922	TMhelix	44	64				
+BFFGDDHI_00922	inside	65	171				
+//
+# BFFGDDHI_01023 Length: 225
+# BFFGDDHI_01023 Number of predicted TMRs: 2
+BFFGDDHI_01023	inside	1	38				
+BFFGDDHI_01023	TMhelix	39	49				
+BFFGDDHI_01023	outside	50	50				
+BFFGDDHI_01023	TMhelix	51	61				
+BFFGDDHI_01023	inside	62	225				
+//
+# BFFGDDHI_01235 Length: 201
+# BFFGDDHI_01235 Number of predicted TMRs: 0
+BFFGDDHI_01235	inside	1	201				
+//
+# BFFGDDHI_01304 Length: 202
+# BFFGDDHI_01304 Number of predicted TMRs: 6
+BFFGDDHI_01304	inside	1	30				
+BFFGDDHI_01304	TMhelix	31	48				
+BFFGDDHI_01304	outside	49	52				
+BFFGDDHI_01304	TMhelix	53	68				
+BFFGDDHI_01304	inside	69	82				
+BFFGDDHI_01304	TMhelix	83	103				
+BFFGDDHI_01304	outside	104	110				
+BFFGDDHI_01304	TMhelix	111	133				
+BFFGDDHI_01304	inside	134	150				
+BFFGDDHI_01304	TMhelix	151	171				
+BFFGDDHI_01304	outside	172	176				
+BFFGDDHI_01304	TMhelix	177	196				
+BFFGDDHI_01304	inside	197	202				
+//
+# BFFGDDHI_01517 Length: 216
+# BFFGDDHI_01517 Number of predicted TMRs: 0
+BFFGDDHI_01517	inside	1	216				
+//
+# BFFGDDHI_01655 Length: 264
+# BFFGDDHI_01655 Number of predicted TMRs: 0
+BFFGDDHI_01655	inside	1	264				
+//
+# BFFGDDHI_01767 Length: 166
+# BFFGDDHI_01767 Number of predicted TMRs: 0
+BFFGDDHI_01767	signal	1	23				
+BFFGDDHI_01767	outside	24	166				
+//
+# BFFGDDHI_03037 Length: 217
+# BFFGDDHI_03037 Number of predicted TMRs: 0
+BFFGDDHI_03037	inside	1	217				
+//
+# BFFGDDHI_03536 Length: 206
+# BFFGDDHI_03536 Number of predicted TMRs: 0
+BFFGDDHI_03536	inside	1	206				
+//
+# BFFGDDHI_03761 Length: 171
+# BFFGDDHI_03761 Number of predicted TMRs: 0
+BFFGDDHI_03761	inside	1	171				
+//
+# NOJLBPDI_00687 Length: 182
+# NOJLBPDI_00687 Number of predicted TMRs: 0
+NOJLBPDI_00687	signal	1	32				
+NOJLBPDI_00687	outside	33	182				
+//
+# NOJLBPDI_00727 Length: 198
+# NOJLBPDI_00727 Number of predicted TMRs: 0
+NOJLBPDI_00727	inside	1	198				
+//
+# NOJLBPDI_00915 Length: 174
+# NOJLBPDI_00915 Number of predicted TMRs: 0
+NOJLBPDI_00915	inside	1	174				
+//
+# NOJLBPDI_00978 Length: 210
+# NOJLBPDI_00978 Number of predicted TMRs: 0
+NOJLBPDI_00978	signal	1	19				
+NOJLBPDI_00978	outside	20	210				
+//
+# NOJLBPDI_01780 Length: 169
+# NOJLBPDI_01780 Number of predicted TMRs: 5
+NOJLBPDI_01780	outside	1	13				
+NOJLBPDI_01780	TMhelix	14	29				
+NOJLBPDI_01780	inside	30	37				
+NOJLBPDI_01780	TMhelix	38	54				
+NOJLBPDI_01780	outside	55	68				
+NOJLBPDI_01780	TMhelix	69	87				
+NOJLBPDI_01780	inside	88	92				
+NOJLBPDI_01780	TMhelix	93	113				
+NOJLBPDI_01780	outside	114	119				
+NOJLBPDI_01780	TMhelix	120	141				
+NOJLBPDI_01780	inside	142	169				
+//
+# NOJLBPDI_01959 Length: 175
+# NOJLBPDI_01959 Number of predicted TMRs: 0
+NOJLBPDI_01959	inside	1	175				
+//
+# NOJLBPDI_02614 Length: 260
+# NOJLBPDI_02614 Number of predicted TMRs: 0
+NOJLBPDI_02614	inside	1	260				
+//
+# OCPBIKNF_04396 Length: 176
+# OCPBIKNF_04396 Number of predicted TMRs: 0
+OCPBIKNF_04396	inside	1	176				
+//
+# ACGEMCJN_01672 Length: 183
+# ACGEMCJN_01672 Number of predicted TMRs: 0
+ACGEMCJN_01672	inside	1	183				
+//
+# KAIPCKHB_00362 Length: 166
+# KAIPCKHB_00362 Number of predicted TMRs: 0
+KAIPCKHB_00362	signal	1	18				
+KAIPCKHB_00362	outside	19	166				
+//
+# KAIPCKHB_00595 Length: 177
+# KAIPCKHB_00595 Number of predicted TMRs: 0
+KAIPCKHB_00595	inside	1	177				
+//
+# KAIPCKHB_01067 Length: 200
+# KAIPCKHB_01067 Number of predicted TMRs: 0
+KAIPCKHB_01067	inside	1	200				
+//
+# KAIPCKHB_01535 Length: 216
+# KAIPCKHB_01535 Number of predicted TMRs: 0
+KAIPCKHB_01535	inside	1	216				
+//
+# KAIPCKHB_02171 Length: 168
+# KAIPCKHB_02171 Number of predicted TMRs: 5
+KAIPCKHB_02171	outside	1	3				
+KAIPCKHB_02171	TMhelix	4	24				
+KAIPCKHB_02171	inside	25	29				
+KAIPCKHB_02171	TMhelix	30	50				
+KAIPCKHB_02171	outside	51	56				
+KAIPCKHB_02171	TMhelix	57	77				
+KAIPCKHB_02171	inside	78	91				
+KAIPCKHB_02171	TMhelix	92	112				
+KAIPCKHB_02171	outside	113	140				
+KAIPCKHB_02171	TMhelix	141	161				
+KAIPCKHB_02171	inside	162	168				
+//
+# KAIPCKHB_02829 Length: 181
+# KAIPCKHB_02829 Number of predicted TMRs: 0
+KAIPCKHB_02829	inside	1	181				
+//
+# KAIPCKHB_02833 Length: 180
+# KAIPCKHB_02833 Number of predicted TMRs: 0
+KAIPCKHB_02833	inside	1	180				
+//
+# KAIPCKHB_03391 Length: 181
+# KAIPCKHB_03391 Number of predicted TMRs: 0
+KAIPCKHB_03391	inside	1	181				
+//
+# KAIPCKHB_03744 Length: 178
+# KAIPCKHB_03744 Number of predicted TMRs: 4
+KAIPCKHB_03744	inside	1	3				
+KAIPCKHB_03744	TMhelix	4	19				
+KAIPCKHB_03744	outside	20	61				
+KAIPCKHB_03744	TMhelix	62	78				
+KAIPCKHB_03744	inside	79	89				
+KAIPCKHB_03744	TMhelix	90	108				
+KAIPCKHB_03744	outside	109	131				
+KAIPCKHB_03744	TMhelix	132	149				
+KAIPCKHB_03744	inside	150	178				
+//
+# ADMCDIBN_01606 Length: 208
+# ADMCDIBN_01606 Number of predicted TMRs: 0
+ADMCDIBN_01606	inside	1	208				
+//
+# PGDCPKGF_00952 Length: 196
+# PGDCPKGF_00952 Number of predicted TMRs: 0
+PGDCPKGF_00952	inside	1	196				
+//
+# PGDCPKGF_00971 Length: 200
+# PGDCPKGF_00971 Number of predicted TMRs: 0
+PGDCPKGF_00971	inside	1	200				
+//
+# PGDCPKGF_01124 Length: 169
+# PGDCPKGF_01124 Number of predicted TMRs: 0
+PGDCPKGF_01124	inside	1	169				
+//
+# PGDCPKGF_01607 Length: 169
+# PGDCPKGF_01607 Number of predicted TMRs: 0
+PGDCPKGF_01607	inside	1	169				
+//
+# PGDCPKGF_02051 Length: 173
+# PGDCPKGF_02051 Number of predicted TMRs: 0
+PGDCPKGF_02051	inside	1	173				
+//
+# PGDCPKGF_02256 Length: 196
+# PGDCPKGF_02256 Number of predicted TMRs: 0
+PGDCPKGF_02256	signal	1	20				
+PGDCPKGF_02256	outside	21	196				
+//
+# PGDCPKGF_02486 Length: 168
+# PGDCPKGF_02486 Number of predicted TMRs: 0
+PGDCPKGF_02486	inside	1	168				
+//
+# PGDCPKGF_02615 Length: 168
+# PGDCPKGF_02615 Number of predicted TMRs: 0
+PGDCPKGF_02615	inside	1	168				
+//
+# EECDKENA_02248 Length: 175
+# EECDKENA_02248 Number of predicted TMRs: 0
+EECDKENA_02248	signal	1	25				
+EECDKENA_02248	outside	26	175				
+//
+# EECDKENA_02476 Length: 247
+# EECDKENA_02476 Number of predicted TMRs: 0
+EECDKENA_02476	inside	1	247				
+//
+# EECDKENA_03213 Length: 179
+# EECDKENA_03213 Number of predicted TMRs: 0
+EECDKENA_03213	inside	1	179				
+//
+# EECDKENA_03537 Length: 179
+# EECDKENA_03537 Number of predicted TMRs: 1
+EECDKENA_03537	inside	1	4				
+EECDKENA_03537	TMhelix	5	21				
+EECDKENA_03537	outside	22	179				
+//
+# EECDKENA_03721 Length: 176
+# EECDKENA_03721 Number of predicted TMRs: 0
+EECDKENA_03721	inside	1	176				
+//
+# EECDKENA_03846 Length: 173
+# EECDKENA_03846 Number of predicted TMRs: 0
+EECDKENA_03846	inside	1	173				
+//
+# EECDKENA_03977 Length: 181
+# EECDKENA_03977 Number of predicted TMRs: 0
+EECDKENA_03977	inside	1	181				
+//
+# EECDKENA_04006 Length: 188
+# EECDKENA_04006 Number of predicted TMRs: 0
+EECDKENA_04006	inside	1	188				
+//
+# EECDKENA_04391 Length: 260
+# EECDKENA_04391 Number of predicted TMRs: 0
+EECDKENA_04391	inside	1	260				
+//
+# EECDKENA_04480 Length: 208
+# EECDKENA_04480 Number of predicted TMRs: 0
+EECDKENA_04480	outside	1	208				
+//
+# EECDKENA_04768 Length: 180
+# EECDKENA_04768 Number of predicted TMRs: 0
+EECDKENA_04768	inside	1	180				
+//
+# EECDKENA_04883 Length: 201
+# EECDKENA_04883 Number of predicted TMRs: 0
+EECDKENA_04883	inside	1	201				
+//
+# LCEFPCKP_02988 Length: 371
+# LCEFPCKP_02988 Number of predicted TMRs: 2
+LCEFPCKP_02988	inside	1	211				
+LCEFPCKP_02988	TMhelix	212	227				
+LCEFPCKP_02988	outside	228	355				
+LCEFPCKP_02988	TMhelix	356	365				
+LCEFPCKP_02988	inside	366	371				
+//
+# FJPKHLDF_01860 Length: 174
+# FJPKHLDF_01860 Number of predicted TMRs: 0
+FJPKHLDF_01860	inside	1	174				
+//
+# FJPKHLDF_03287 Length: 182
+# FJPKHLDF_03287 Number of predicted TMRs: 5
+FJPKHLDF_03287	inside	1	11				
+FJPKHLDF_03287	TMhelix	12	32				
+FJPKHLDF_03287	outside	33	61				
+FJPKHLDF_03287	TMhelix	62	82				
+FJPKHLDF_03287	inside	83	90				
+FJPKHLDF_03287	TMhelix	91	111				
+FJPKHLDF_03287	outside	112	127				
+FJPKHLDF_03287	TMhelix	128	143				
+FJPKHLDF_03287	inside	144	154				
+FJPKHLDF_03287	TMhelix	155	173				
+FJPKHLDF_03287	outside	174	182				
+//
+# FJPKHLDF_03917 Length: 184
+# FJPKHLDF_03917 Number of predicted TMRs: 0
+FJPKHLDF_03917	outside	1	184				
+//
+# KPAAMDLN_00827 Length: 195
+# KPAAMDLN_00827 Number of predicted TMRs: 8
+KPAAMDLN_00827	signal	1	13				
+KPAAMDLN_00827	periplasm	14	24				
+KPAAMDLN_00827	Beta sheet	25	31				
+KPAAMDLN_00827	outside	32	62				
+KPAAMDLN_00827	Beta sheet	63	71				
+KPAAMDLN_00827	periplasm	72	77				
+KPAAMDLN_00827	Beta sheet	78	85				
+KPAAMDLN_00827	outside	86	104				
+KPAAMDLN_00827	Beta sheet	105	115				
+KPAAMDLN_00827	periplasm	116	128				
+KPAAMDLN_00827	Beta sheet	129	137				
+KPAAMDLN_00827	outside	138	159				
+KPAAMDLN_00827	Beta sheet	160	168				
+KPAAMDLN_00827	periplasm	169	173				
+KPAAMDLN_00827	Beta sheet	174	181				
+KPAAMDLN_00827	outside	182	185				
+KPAAMDLN_00827	Beta sheet	186	193				
+KPAAMDLN_00827	periplasm	194	195				
+//
+# KPAAMDLN_01512 Length: 167
+# KPAAMDLN_01512 Number of predicted TMRs: 0
+KPAAMDLN_01512	inside	1	167				
+//
+# KPAAMDLN_02950 Length: 183
+# KPAAMDLN_02950 Number of predicted TMRs: 0
+KPAAMDLN_02950	inside	1	183				
+//
+# KPAAMDLN_03073 Length: 184
+# KPAAMDLN_03073 Number of predicted TMRs: 0
+KPAAMDLN_03073	inside	1	184				
+//
+# DMAPLEDO_01851 Length: 180
+# DMAPLEDO_01851 Number of predicted TMRs: 0
+DMAPLEDO_01851	inside	1	180				
+//
+# BHKGJOEO_01607 Length: 170
+# BHKGJOEO_01607 Number of predicted TMRs: 3
+BHKGJOEO_01607	inside	1	81				
+BHKGJOEO_01607	TMhelix	82	102				
+BHKGJOEO_01607	outside	103	115				
+BHKGJOEO_01607	TMhelix	116	125				
+BHKGJOEO_01607	inside	126	126				
+BHKGJOEO_01607	TMhelix	127	136				
+BHKGJOEO_01607	outside	137	170				
+//
+# FOFPMLJC_01589 Length: 175
+# FOFPMLJC_01589 Number of predicted TMRs: 0
+FOFPMLJC_01589	inside	1	175				
+//
+# FOFPMLJC_01301 Length: 187
+# FOFPMLJC_01301 Number of predicted TMRs: 1
+FOFPMLJC_01301	outside	1	3				
+FOFPMLJC_01301	TMhelix	4	21				
+FOFPMLJC_01301	inside	22	187				
+//
+# FPFHHPNP_02152 Length: 196
+# FPFHHPNP_02152 Number of predicted TMRs: 0
+FPFHHPNP_02152	inside	1	196				
+//
+# PNIDDABP_01890 Length: 168
+# PNIDDABP_01890 Number of predicted TMRs: 0
+PNIDDABP_01890	inside	1	168				
+//
+# LFOGNHBF_03453 Length: 183
+# LFOGNHBF_03453 Number of predicted TMRs: 0
+LFOGNHBF_03453	inside	1	183				
+//
+# DIHADMFM_01171 Length: 174
+# DIHADMFM_01171 Number of predicted TMRs: 4
+DIHADMFM_01171	outside	1	18				
+DIHADMFM_01171	TMhelix	19	39				
+DIHADMFM_01171	inside	40	74				
+DIHADMFM_01171	TMhelix	75	95				
+DIHADMFM_01171	outside	96	102				
+DIHADMFM_01171	TMhelix	103	121				
+DIHADMFM_01171	inside	122	146				
+DIHADMFM_01171	TMhelix	147	164				
+DIHADMFM_01171	outside	165	174				
+//
+# LCEFPCKP_01675 Length: 192
+# LCEFPCKP_01675 Number of predicted TMRs: 0
+LCEFPCKP_01675	inside	1	192				
+//
+# LCEFPCKP_02328 Length: 175
+# LCEFPCKP_02328 Number of predicted TMRs: 0
+LCEFPCKP_02328	inside	1	175				
+//
+# NAJEKJFG_05201 Length: 216
+# NAJEKJFG_05201 Number of predicted TMRs: 0
+NAJEKJFG_05201	signal	1	34				
+NAJEKJFG_05201	outside	35	216				
+//
+# ENNGKCNB_02674 Length: 204
+# ENNGKCNB_02674 Number of predicted TMRs: 0
+ENNGKCNB_02674	inside	1	204				
+//
+# CPNIJBNN_04382 Length: 172
+# CPNIJBNN_04382 Number of predicted TMRs: 0
+CPNIJBNN_04382	inside	1	172				
+//
+# FHLCMHEM_01566 Length: 182
+# FHLCMHEM_01566 Number of predicted TMRs: 0
+FHLCMHEM_01566	signal	1	38				
+FHLCMHEM_01566	outside	39	182				
+//
+# CAJPIMFP_02145 Length: 219
+# CAJPIMFP_02145 Number of predicted TMRs: 0
+CAJPIMFP_02145	inside	1	219				
+//
+# MCJFIOPE_00746 Length: 170
+# MCJFIOPE_00746 Number of predicted TMRs: 0
+MCJFIOPE_00746	inside	1	170				
+//
+# BJCPALHD_03475 Length: 168
+# BJCPALHD_03475 Number of predicted TMRs: 0
+BJCPALHD_03475	inside	1	168				
+//
+# NOJLBPDI_00242 Length: 189
+# NOJLBPDI_00242 Number of predicted TMRs: 0
+NOJLBPDI_00242	signal	1	34				
+NOJLBPDI_00242	outside	35	189				
+//
+# EECDKENA_04120 Length: 179
+# EECDKENA_04120 Number of predicted TMRs: 0
+EECDKENA_04120	inside	1	179				
+//
+# EECDKENA_02071 Length: 167
+# EECDKENA_02071 Number of predicted TMRs: 2
+EECDKENA_02071	outside	1	68				
+EECDKENA_02071	TMhelix	69	89				
+EECDKENA_02071	inside	90	132				
+EECDKENA_02071	TMhelix	133	153				
+EECDKENA_02071	outside	154	167				
+//
+# DMAPLEDO_01969 Length: 170
+# DMAPLEDO_01969 Number of predicted TMRs: 1
+DMAPLEDO_01969	outside	1	6				
+DMAPLEDO_01969	TMhelix	7	27				
+DMAPLEDO_01969	inside	28	170				
+//
+# JEDBDOFF_01256 Length: 170
+# JEDBDOFF_01256 Number of predicted TMRs: 0
+JEDBDOFF_01256	inside	1	170				
+//
+# KAIPCKHB_03170 Length: 189
+# KAIPCKHB_03170 Number of predicted TMRs: 0
+KAIPCKHB_03170	signal	1	16				
+KAIPCKHB_03170	outside	17	189				
+//
+# EECDKENA_04641 Length: 196
+# EECDKENA_04641 Number of predicted TMRs: 0
+EECDKENA_04641	signal	1	21				
+EECDKENA_04641	outside	22	196				
+//
+# FHLCMHEM_02553 Length: 204
+# FHLCMHEM_02553 Number of predicted TMRs: 0
+FHLCMHEM_02553	inside	1	204				

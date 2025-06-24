@@ -1,0 +1,35 @@
+## gff-version 3
+DMAPLEDO_01182 hypothetical protein	SignalP-6.0	signal_peptide	1	26	0.59666455	.	.	.
+DMAPLEDO_02338 hypothetical protein	SignalP-6.0	lipoprotein_signal_peptide	1	18	1.0	.	.	.
+BHKGJOEO_01799 hypothetical protein	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+IOEHNOCH_01576 hypothetical protein	SignalP-6.0	signal_peptide	1	28	0.9989227	.	.	.
+GFLFOGJA_00172 hypothetical protein	SignalP-6.0	signal_peptide	1	23	0.9989943	.	.	.
+FPFHHPNP_00279 hypothetical protein	SignalP-6.0	signal_peptide	1	24	0.9991999	.	.	.
+FPFHHPNP_02522 hypothetical protein	SignalP-6.0	signal_peptide	1	27	0.53843707	.	.	.
+FOFPMLJC_00071 hypothetical protein	SignalP-6.0	signal_peptide	1	19	0.54310757	.	.	.
+FOFPMLJC_00335 Outer membrane lipoprotein Blc	SignalP-6.0	lipoprotein_signal_peptide	1	16	0.98748195	.	.	.
+FOFPMLJC_02299 hypothetical protein	SignalP-6.0	lipoprotein_signal_peptide	1	15	1.0	.	.	.
+FOFPMLJC_03295 Outer membrane protein W	SignalP-6.0	signal_peptide	1	24	0.9942224	.	.	.
+PNIDDABP_00341 hypothetical protein	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+PNIDDABP_02392 hypothetical protein	SignalP-6.0	signal_peptide	1	23	0.9990517	.	.	.
+CMILMNLC_00716 Hydroperoxy fatty acid reductase gpx1	SignalP-6.0	signal_peptide	1	26	0.9688515	.	.	.
+LCEFPCKP_00654 Peptide methionine sulfoxide reductase MsrB	SignalP-6.0	signal_peptide	1	36	0.5769684	.	.	Note=TAT
+ENNGKCNB_02663 hypothetical protein	SignalP-6.0	lipoprotein_signal_peptide	1	23	1.0	.	.	.
+ENNGKCNB_02677 hypothetical protein	SignalP-6.0	signal_peptide	1	27	0.99860823	.	.	.
+CAJPIMFP_01032 hypothetical protein	SignalP-6.0	signal_peptide	1	23	0.99712116	.	.	.
+LEOGIOEI_02565 hypothetical protein	SignalP-6.0	signal_peptide	1	21	0.99912465	.	.	.
+LEOGIOEI_02684 hypothetical protein	SignalP-6.0	signal_peptide	1	23	0.9990404	.	.	.
+KHKJMBJJ_00769 hypothetical protein	SignalP-6.0	signal_peptide	1	29	0.9837114	.	.	.
+BJCPALHD_02777 Outer membrane lipoprotein Blc	SignalP-6.0	lipoprotein_signal_peptide	1	25	1.0	.	.	.
+NOJLBPDI_00687 hypothetical protein	SignalP-6.0	signal_peptide	1	32	0.96512866	.	.	.
+NOJLBPDI_00978 hypothetical protein	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+KAIPCKHB_00362 Plastocyanin	SignalP-6.0	lipoprotein_signal_peptide	1	18	1.0	.	.	.
+PGDCPKGF_02256 Protein LemA	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+EECDKENA_02248 Thiol-disulfide oxidoreductase ResA	SignalP-6.0	signal_peptide	1	30	0.9884207	.	.	Note=TAT
+EECDKENA_03537 hypothetical protein	SignalP-6.0	signal_peptide	1	20	0.9972033	.	.	.
+FJPKHLDF_03917 hypothetical protein	SignalP-6.0	signal_peptide	1	23	0.7139564	.	.	.
+NAJEKJFG_05201 Sample_04_50	SignalP-6.0	signal_peptide	1	34	0.83572423	.	.	.
+FHLCMHEM_01566 Sample_07_58	SignalP-6.0	signal_peptide	1	38	0.94827944	.	.	.
+NOJLBPDI_00242 Sample_08_506	SignalP-6.0	signal_peptide	1	34	0.9641735	.	.	.
+KAIPCKHB_03170 Sample_10_27	SignalP-6.0	lipoprotein_signal_peptide	1	16	1.0	.	.	.
+EECDKENA_04641 Sample_11_US_EPA	SignalP-6.0	signal_peptide	1	21	0.9986943	.	.	.
